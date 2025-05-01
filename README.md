@@ -214,6 +214,7 @@ Thanks to all contributors and the open source community. Special thanks to:
 - [NaCl](https://doc.libsodium.org/) for cryptography
 - [WebSocket](https://websockets.readthedocs.io/) for real-time communication
 - [MessagePack](https://msgpack.org/) for binary serialization
+- [MCP SDK](https://github.com/modelcontextprotocol/typescript-sdk/) for MCP clinet/server development
 
 ## 📚 References
 - [Model Context Protocol](https://github.com/modelcontextprotocol) - Base protocol architecture
