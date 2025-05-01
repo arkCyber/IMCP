@@ -97,14 +97,13 @@ pip install -r requirements.txt
 ## 🗂️ Project Structure
 
 - IMCP/
-  - imcp-py/                # Python implementation
-  - imcp-ts/              # TypeScript implementation
-  - imcp-rs/              # Rust implementation
-  - imcp-analyzer/        # Protocol analyzer tool
-  - docs/                 # Documentation
-  - examples/             # Example applications
-  - assets/               # Static assets
-  - .obsidian/            # Obsidian notes
+  - imcp-py/..............# Python implementation
+  - imcp-ts/..............# TypeScript implementation
+  - imcp-rs/..............# Rust implementation
+  - imcp-analyzer/........# Protocol analyzer tool
+  - docs/.................# Documentation
+  - examples/.............# Example applications
+  - assets/...............# Static assets
 
 ## 🖥️ Usage
 
