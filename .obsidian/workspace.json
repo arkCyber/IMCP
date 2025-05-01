@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "e114af5f5025f27c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1030e3942fb6bb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f191fe28ead8786a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/IMCP Protocol Whitepaper v1.0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IMCP Protocol Whitepaper v1.0"
+            }
+          },
+          {
+            "id": "fa4296242ed86dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "4d4f63697a14a4c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "798ad36fb7f787ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "856bfb8906e6d8a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b0dd2530f97d20c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8f2a2764556d2196",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7818f74cb819c867",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0839fa15b9d9b052",
+    "type": "split",
+    "children": [
+      {
+        "id": "678a9321c8a2dcdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d7652291819aea9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "7b24e44e64328cc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "75a56d473533dc75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9df692222bb20fdb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "50159dc81b48a864",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
+          },
+          {
+            "id": "aa71bde4cbaa0457",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "4d4f63697a14a4c8",
+  "lastOpenFiles": [
+    "LICENSE",
+    "docs/IMCP_PROTOCOL_SPEC.md",
+    "Untitled.canvas",
+    "README.md",
+    "assets/images/MCP-Protocal.png",
+    "assets/images/MCP-ClinetServer.png",
+    "assets/images",
+    "assets",
+    "asset/MCP-Protocal.png",
+    "asset/MCP-ClinetServer.png",
+    "asset",
+    "imcp-rs/target/debug/incremental/imcp-0n1iqfsh29zhk/s-h6y0kzztpr-1yewji4-9g3p5ieh9xy9rcg38i07k2xme/work-products.bin",
+    "imcp-rs/target/debug/incremental/imcp-0n1iqfsh29zhk/s-h6y0kzztpr-1yewji4-9g3p5ieh9xy9rcg38i07k2xme/query-cache.bin",
+    "imcp-rs/target/debug/incremental/imcp-0n1iqfsh29zhk/s-h6y0kzztpr-1yewji4-9g3p5ieh9xy9rcg38i07k2xme/dep-graph.bin",
+    "imcp-rs/target/debug/incremental/imcp-0n1iqfsh29zhk/s-h6y0kzztpr-1yewji4-9g3p5ieh9xy9rcg38i07k2xme",
+    "imcp-rs/target/debug/incremental/imcp-3b2de4d8jmyr2/s-h6y0kzztrc-0g0j0lk-30nz5v1jiqqdpe72rytejsji1/work-products.bin",
+    "imcp-rs/target/debug/incremental/imcp-3b2de4d8jmyr2/s-h6y0kzztrc-0g0j0lk-30nz5v1jiqqdpe72rytejsji1/query-cache.bin",
+    "imcp-rs/target/debug/incremental/imcp-3b2de4d8jmyr2/s-h6y0kzztrc-0g0j0lk-30nz5v1jiqqdpe72rytejsji1/dep-graph.bin",
+    "docs/IMCP Protocol Specification.md",
+    "docs/Data Structures and Packet Format.md",
+    "docs/IMCP (Industrial Model Context Protocol).md",
+    "docs/About Dual-Key System Architecture.md",
+    "docs/IMCP Protocol Whitepaper v1.0.md"
+  ]
+}
