@@ -84,6 +84,10 @@ IMCP supports two operating modes:
 ## 🚀 Installation
 
 1. Clone the repository
+```bash
+   git clone https://github.com/arkCyber/IMCP.git
+   cd IMCP
+```
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
