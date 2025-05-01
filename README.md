@@ -97,7 +97,7 @@ pip install -r requirements.txt
 ## 🗂️ Project Structure
 
 - IMCP/
-  - imcp-py/              # Python implementation
+  - imcp-py/                # Python implementation
   - imcp-ts/              # TypeScript implementation
   - imcp-rs/              # Rust implementation
   - imcp-analyzer/        # Protocol analyzer tool
