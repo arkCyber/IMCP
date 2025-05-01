@@ -8,6 +8,7 @@
 
 IMCP is based on the MCP architecture, optimized for industrial production scenarios with strict requirements for real-time performance, reliability, and security.
 
+
 ![IMCP Protocol Overview](assets/images/MCP-Protocal.png)
 
 ### 🌟 Key Improvements over MCP
@@ -158,6 +159,7 @@ asyncio.run(main())
 - Efficient message serialization
 - Message compression support
 - Optimized network transmission
+  
 ![IMCP Client-Server Architecture](assets/images/MCP-ClinetServer.png)
 
 #### 🎯 Industrial Applications
